@@ -1,5 +1,5 @@
 cv:
-  name: John Doe
+  name: Kajetan Koltonski
   location: Your Location
   email: youremail@yourdomain.com
   phone: tel:+90-541-999-99-99
@@ -34,7 +34,7 @@ cv:
         start_date: 2000-09
         end_date: 2005-05
         highlights:
-          - 'GPA: 3.9/4.0 ([Transcript](https://example.com))'
+          - 'GPA: 3.9/4.0 ([a link to somewhere](https://example.com))'
           - '**Coursework:** Computer Architecture, Comparison
             of Learning Algorithms, Computational Theory'
     experience:
@@ -104,41 +104,11 @@ cv:
         details: .NET, Microsoft SQL Server, XCode, Interface
           Builder
 design:
-  theme: classic
-  font: Source Sans 3
+  theme: moderncv
   font_size: 10pt
   page_size: letterpaper
-  color: '#004f90'
-  disable_external_link_icons: false
-  disable_page_numbering: false
-  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
-  disable_last_updated_date: false
-  last_updated_date_style: Last updated in TODAY
-  header_font_size: 30 pt
-  text_alignment: justified
-  seperator_between_connections: ''
-  use_icons_for_connections: true
-  margins:
-    page:
-      top: 2 cm
-      bottom: 2 cm
-      left: 2 cm
-      right: 2 cm
-    section_title:
-      top: 0.3 cm
-      bottom: 0.2 cm
-    entry_area:
-      left_and_right: 0.2 cm
-      vertical_between: 0.2 cm
-      date_and_location_width: 4.5 cm
-      education_degree_width: 1 cm
-    highlights_area:
-      top: 0.10 cm
-      left: 0.4 cm
-      vertical_between_bullet_points: 0.10 cm
-    header:
-      vertical_between_name_and_connections: 0.3 cm
-      bottom: 0.3 cm
-      horizontal_between_connections: 0.5 cm
-  show_timespan_in:
-    - Experience
+  color: blue
+  date_width: 3.8 cm
+  content_scale: 0.75
+  show_only_years: false
+  disable_page_numbers: false
