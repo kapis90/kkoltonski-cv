@@ -1,9 +1,8 @@
-# Kajetan Koltonski's CV
+# Kajetan Kołtoński's CV
 
-- Phone: +90 541 999 99 99
-- Email: [youremail@yourdomain.com](mailto:youremail@yourdomain.com)
-- Location: Your Location
-- Website: [yourwebsite.com](https://yourwebsite.com/)
+- Phone: +48 537 648 594
+- Email: [k.koltonski@gmail.com](mailto:k.koltonski@gmail.com)
+- Location: Przeciszòw
 - LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
 - GitHub: [yourusername](https://github.com/yourusername)
 
