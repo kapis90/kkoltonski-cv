@@ -2,78 +2,74 @@
 
 - Phone: +48 537 648 594
 - Email: [k.koltonski@gmail.com](mailto:k.koltonski@gmail.com)
-- Location: Przeciszòw
-- LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Location: Przeciszów
+- LinkedIn: [kajetan-koltonski](https://linkedin.com/in/kajetan-koltonski)
 
 
-# Welcome to RenderCV!
+# Summary
 
-[RenderCV](https://github.com/sinaatalay/rendercv) is a LaTeX-based CV/resume framework. It allows you to create a high-quality CV or resume as a PDF file from a YAML file, with **full Markdown syntax support** and **complete control over the LaTeX code**.
+Senior Software Tester with experience in automation industry. Quality assurance leader for couple of years already.
 
-The boilerplate content was inspired by [Gayle McDowell](https://github.com/dnl-blkv/mcdowell-cv).
+Mostly experienced with testing desktop application, but familiar with web applications too.
 
-# Quick Guide
+Good attitude and motivation to work in group, creativity, and punctuality.
 
-- Each section title is arbitrary and each section contains a list of entries.
-- There are 7 unique entry types: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.
-- Select a section title, pick an entry type, and start writing your section!
-- [Here](https://docs.rendercv.com/user_guide/), you can find a comprehensive user guide for RenderCV.
+Happy dad of two daughters and a son.
+
 # Education
 
-## University of Pennsylvania, BS in Computer Science
+## Silesian University of Technology, Bachelor in Electronics and Telecommunication
 
-- Sept 2000 – May 2005
-- GPA: 3.9/4.0 ([a link to somewhere](https://example.com))
-- **Coursework:** Computer Architecture, Comparison of Learning Algorithms, Computational Theory
+- 2014
 
 # Experience
 
-## Apple, Software Engineer
+## Rockwell Automation, Project Engineer Software Test / Test Architect
 
-- June 2005 – Aug 2007
-- Cupertino, CA
-- Reduced time to render user buddy lists by 75% by implementing a prediction algorithm
-- Integrated iChat with Spotlight Search by creating a tool to extract metadata from saved chat transcripts and provide metadata to a system-wide search database
-- Redesigned chat file format and implemented backward compatibility for search
+- June 2022 – present
+- TODO
 
-## Microsoft, Software Engineer Intern
+## Rockwell Automation, Senior Engineer Software Test / Test Lead
 
-- June 2003 – Aug 2003
-- Redmond, WA
-- Designed a UI for the VS open file switcher (Ctrl-Tab) and extended it to tool windows
-- Created a service to provide gradient across VS and VS add-ins, optimizing its performance via caching
-- Built an app to compute the similarity of all methods in a codebase, reducing the time from $\mathcal{O}(n^2)$ to $\mathcal{O}(n \log n)$
-- Created a test case generation tool that creates random XML docs from XML Schema
-- Automated the extraction and processing of large datasets from legacy systems using SQL and Perl scripts
+- Apr 2021 – May 2022
+- TODO
 
-# Publications
+## Rockwell Automation, Senior Engineer Software Test
 
-## 3D Finite Element Analysis of No-Insulation Coils ([10.1109/TASC.2023.3340648](https://doi.org/10.1109/TASC.2023.3340648))
-- Jan 2004
-- Frodo Baggins, ***John Doe***, Samwise Gamgee
+- Mar 2019 – Mar 2021
+- TODO
 
-# Projects
+## Rockwell Automation, Engineer Software Test
 
-## Multi-User Drawing Tool
+- Mar 2018 – Feb 2019
+- TODO
 
-- [github.com/name/repo](https://github.com/sinaatalay/rendercv)
-- Developed an electronic classroom where multiple users can simultaneously view and draw on a "chalkboard" with each person's edits synchronized
-- Tools Used: C++, MFC
+## Mentor Graphics, Quality Assurance Engineer
 
-## Synchronized Desktop Calendar
+- Aug 2016 – Feb 2018
+- TODO
 
-- [github.com/name/repo](https://github.com/sinaatalay/rendercv)
-- Developed a desktop calendar with globally shared and synchronized calendars, allowing users to schedule meetings with other users
-- Tools Used: C#, .NET, SQL, XML
+## Mentor Graphics, Associate Quality Assurance Engineer
 
-## Custom Operating System
+- Aug 2015 – July 2016
+- TODO
 
-- 2002
-- Built a UNIX-style OS with a scheduler, file system, text editor, and calculator
-- Tools Used: C
+## Mentor Graphics, Product Quality Assurance Intern
+
+- Oct 2014 – July 2015
+- TODO
 
 # Technologies
 
-- Languages: C++, C, Java, Objective-C, C#, SQL, JavaScript
-- Technologies: .NET, Microsoft SQL Server, XCode, Interface Builder
+- Languages: Python (Advanced), TCL
+- Technologies: Pytest, Squish/Selenium framework, Jira, qTest, Jenkins, GitLab, GIT / SVN, SCRUM/Agile work methodology, Windows / Linux
+# Languages
+
+English - very good knowledge in speaking and writing
+
+German - very basic knowledge
+
+# RODO
+
+Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).
+
