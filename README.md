@@ -31,7 +31,7 @@ Happy dad of two daughters and a son.
 - Build core architecture of test automation framework
 - Coordinate test automation work for the entire project on different campuses located in the United States, Poland, Italy, and China.
 - Integrate GitLab CI/CD with automation framework
-- Act as \emph{Product Owner} for test automation team
+- Act as *Product Owner* for test automation team
 
 ## Rockwell Automation, Senior Engineer Software Test / Test Lead
 
@@ -41,15 +41,15 @@ Happy dad of two daughters and a son.
 - Run and analyze regression tests
 - Perform performance tests
 - Contribute to test automation framework
-- Act as \emph{Feaure Test Lead} to confirm that feature is properly tested
-- Become a technical leader of the test team, \emph{Apr 2021}
+- Act as *Feaure Test Lead* to confirm that feature is properly tested
+- Become a technical leader of the test team, *Apr 2021*
 - Work using SAFe methodology in one of 11 Feature Teams\newline{}\newline{}
 
 ## Mentor Graphics, Quality Assurance Engineer
 
 - Oct 2014 – Feb 2018
 - Expedition Package Integrator
-- Begin my career as an intern and decide to continue the quality assurance path
+- Begin my career as an intern and decided to continue the quality assurance path
 - Create test cases and test strategies for currently developed features
 - Create automated test cases
 - Run and analyze regression tests
