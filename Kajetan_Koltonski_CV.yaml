@@ -8,69 +8,64 @@ cv:
       username: kajetan-koltonski
   sections:
     summary:
-      - Senior Software Tester with experience in automation industry. Quality assurance leader for couple of years already.
-      - Mostly experienced with testing desktop application, but familiar with web applications too.
+      - Senior Software Tester with experience in the automation industry. Quality assurance leader for a couple of years already.
+      - Mostly experienced with testing desktop applications, but familiar with web applications too.
       - Good attitude and motivation to work in group, creativity, and punctuality.
       - Happy dad of two daughters and a son.
+
     education:
       - institution: Silesian University of Technology
         area: Electronics and Telecommunication
         degree: Bachelor
         end_date: 2014
+
     experience:
       - company: Rockwell Automation
         position: Project Engineer Software Test / Test Architect
+        location: FactoryTalk FTOptix
         start_date: 2022-06
         end_date: present
         highlights:
-          - TODO
+          - Build core architecture of test automation framework
+          - Coordinate test automation work for the entire project on different campuses located in the United States, Poland, Italy, and China.
+          - Integrate GitLab CI/CD with automation framework
+          - Act as \emph{Product Owner} for test automation team
+
       - company: Rockwell Automation
         position: Senior Engineer Software Test / Test Lead
-        start_date: 2021-04
+        location: Studio 5000 View Designer
+        start_date: 2018-03
         end_date: 2022-05
         highlights:
-          - TODO
-      - company: Rockwell Automation
-        position: Senior Engineer Software Test
-        start_date: 2019-03
-        end_date: 2021-03
-        highlights:
-          - TODO
-      - company: Rockwell Automation
-        position: Engineer Software Test
-        start_date: 2018-03
-        end_date: 2019-02
-        highlights:
-          - TODO
+          - Create test cases, both manual and automated
+          - Run and analyze regression tests
+          - Perform performance tests
+          - Contribute to test automation framework
+          - Act as \emph{Feaure Test Lead} to confirm that feature is properly tested
+          - Become a technical leader of the test team, \emph{Apr 2021}
+          - Work using SAFe methodology in one of 11 Feature Teams
+
       - company: Mentor Graphics
         position: Quality Assurance Engineer
-        start_date: 2016-08
+        location: Expedition Package Integrator
+        start_date: 2014-10
         end_date: 2018-02
         highlights:
-          - TODO
-      - company: Mentor Graphics
-        position: Associate Quality Assurance Engineer
-        start_date: 2015-08
-        end_date: 2016-07
-        highlights:
-          - TODO
-      - company: Mentor Graphics
-        position: Product Quality Assurance Intern
-        start_date: 2014-10
-        end_date: 2015-07
-        highlights:
-          - TODO
+          - Begin my career as an intern and decide to continue the quality assurance path
+          - Create test cases and test strategies for currently developed features
+          - Create automated test cases
+          - Run and analyze regression tests
 
 
     technologies:
       - label: Languages
         details: Python (Advanced), TCL
       - label: Technologies
-        details: Pytest, Squish/Selenium framework, Jira, qTest, Jenkins, GitLab, GIT / SVN, SCRUM/Agile work methodology, Windows / Linux
+        details: Pytest, Squish, Selenium, Jira, qTest, Jenkins, GitLab CI/CD, GIT / SVN, SCRUM/SAFe, Windows / Linux
 
     languages:
-      - English - very good knowledge in speaking and writing
-      - German - very basic knowledge
+      - English - excellent in speaking and writing
+      - German - very basic level
 
     RODO:
     - Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).

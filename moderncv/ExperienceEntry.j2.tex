@@ -1,9 +1,9 @@
 \cventry{
     ((*- if design.show_only_years *))<<-entry.date_string_only_years->>((* else *))<<-entry.date_string->>((* endif -*))
-}{\textbf{<<entry.company>>}}{
-    <<-entry.position->>
-}{
+}{\textbf{<<entry.company>>}}{\emph{
     <<-entry.location->>
+}}{\newline{}
+    <<-entry.position->>
 }{}{}
 ((* for item in entry.highlights *))
 \cvlistitem{<<item>>}
