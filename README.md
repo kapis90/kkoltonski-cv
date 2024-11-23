@@ -8,9 +8,9 @@
 
 # Summary
 
-Senior Software Tester with experience in automation industry. Quality assurance leader for couple of years already.
+Senior Software Tester with experience in the automation industry. Quality assurance leader for a couple of years already.
 
-Mostly experienced with testing desktop application, but familiar with web applications too.
+Mostly experienced with testing desktop applications, but familiar with web applications too.
 
 Good attitude and motivation to work in group, creativity, and punctuality.
 
@@ -27,47 +27,42 @@ Happy dad of two daughters and a son.
 ## Rockwell Automation, Project Engineer Software Test / Test Architect
 
 - June 2022 – present
-- TODO
+- FactoryTalk FTOptix
+- Build core architecture of test automation framework
+- Coordinate test automation work for the entire project on different campuses located in the United States, Poland, Italy, and China.
+- Integrate GitLab CI/CD with automation framework
+- Act as \emph{Product Owner} for test automation team
 
 ## Rockwell Automation, Senior Engineer Software Test / Test Lead
 
-- Apr 2021 – May 2022
-- TODO
-
-## Rockwell Automation, Senior Engineer Software Test
-
-- Mar 2019 – Mar 2021
-- TODO
-
-## Rockwell Automation, Engineer Software Test
-
-- Mar 2018 – Feb 2019
-- TODO
+- Mar 2018 – May 2022
+- Studio 5000 View Designer
+- Create test cases, both manual and automated
+- Run and analyze regression tests
+- Perform performance tests
+- Contribute to test automation framework
+- Act as \emph{Feaure Test Lead} to confirm that feature is properly tested
+- Become a technical leader of the test team, \emph{Apr 2021}
+- Work using SAFe methodology in one of 11 Feature Teams
 
 ## Mentor Graphics, Quality Assurance Engineer
 
-- Aug 2016 – Feb 2018
-- TODO
-
-## Mentor Graphics, Associate Quality Assurance Engineer
-
-- Aug 2015 – July 2016
-- TODO
-
-## Mentor Graphics, Product Quality Assurance Intern
-
-- Oct 2014 – July 2015
-- TODO
+- Oct 2014 – Feb 2018
+- Expedition Package Integrator
+- Begin my career as an intern and decide to continue the quality assurance path
+- Create test cases and test strategies for currently developed features
+- Create automated test cases
+- Run and analyze regression tests
 
 # Technologies
 
 - Languages: Python (Advanced), TCL
-- Technologies: Pytest, Squish/Selenium framework, Jira, qTest, Jenkins, GitLab, GIT / SVN, SCRUM/Agile work methodology, Windows / Linux
+- Technologies: Pytest, Squish, Selenium, Jira, qTest, Jenkins, GitLab CI/CD, GIT / SVN, SCRUM/SAFe, Windows / Linux
 # Languages
 
-English - very good knowledge in speaking and writing
+English - excellent in speaking and writing
 
-German - very basic knowledge
+German - very basic level
 
 # RODO
 
