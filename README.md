@@ -43,7 +43,7 @@ Happy dad of two daughters and a son.
 - Contribute to test automation framework
 - Act as \emph{Feaure Test Lead} to confirm that feature is properly tested
 - Become a technical leader of the test team, \emph{Apr 2021}
-- Work using SAFe methodology in one of 11 Feature Teams\newline{}\newline{}\newline{}
+- Work using SAFe methodology in one of 11 Feature Teams\newline{}\newline{}
 
 ## Mentor Graphics, Quality Assurance Engineer
 
